@@ -1,9 +1,9 @@
 Git es un sistema de control de versiones distribuido ampliamente utilizado. Aquí tienes algunos comandos básicos de Git:
 
-git init -> Inicia un nuevo repositorio Git en el directorio actual.
-git clone <URL> -> Clona un repositorio Git existente desde una URL remota a tu máquina local.
-git add <archivo(s)> -> Agrega archivos al área de preparación para ser incluidos en el próximo commit.
-git commit -m "mensaje" -> Crea un nuevo commit con los cambios en el área de preparación y un mensaje descriptivo.
+git init -> Inicia un nuevo repositorio Git en el directorio actual. /n
+git clone <URL> -> Clona un repositorio Git existente desde una URL remota a tu máquina local./n
+git add <archivo(s)> -> Agrega archivos al área de preparación para ser incluidos en el próximo commit./n
+git commit -m "mensaje" -> Crea un nuevo commit con los cambios en el área de preparación y un mensaje descriptivo./n
 git status -> Muestra el estado actual del repositorio, incluyendo los cambios que están pendientes de ser agregados al área de preparación.
 git pull -> Obtiene los cambios más recientes desde el repositorio remoto y los fusiona con tu rama local.
 git push -> Envía tus cambios locales al repositorio remoto.
